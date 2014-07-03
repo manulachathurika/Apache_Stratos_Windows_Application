@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
     <div>
-    <Label>HI</Label>
+    <Label>Hi, Welcome to the SaaS App Development with Windows Cartridge in Apache Stratos Webinar</Label>
     </div>
     </form>
 </body>
