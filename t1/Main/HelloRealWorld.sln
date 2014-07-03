@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloRealWorldConsole", "HelloRealWorldConsole\HelloRealWorldConsole.csproj", "{077CEB4D-72FF-4CF9-B0CB-9AF78A7F732D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloRealWorld.Common", "HelloRealWorld.Common\HelloRealWorld.Common.csproj", "{BCF5AAD7-1678-48E5-9FA1-3041CB7DEBBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloRealWorld.Web", "HelloRealWorld.Web\HelloRealWorld.Web.csproj", "{55F53B0A-E24A-4BEE-A5D2-49A8B0B17742}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloRealWorld.WebApplication", "HelloRealWorld.WebApplication\HelloRealWorld.WebApplication.csproj", "{FC68B074-00B9-4FF9-8FAD-9B3B56BA431E}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs06.codeplex.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = HelloRealWorld.Common\\HelloRealWorld.Common.csproj
+		SccProjectName1 = HelloRealWorld.Common
+		SccLocalPath1 = HelloRealWorld.Common
+		SccProjectUniqueName2 = HelloRealWorldConsole\\HelloRealWorldConsole.csproj
+		SccProjectName2 = HelloRealWorldConsole
+		SccLocalPath2 = HelloRealWorldConsole
+		SccProjectUniqueName3 = HelloRealWorld.WebApplication\\HelloRealWorld.WebApplication.csproj
+		SccProjectName3 = HelloRealWorld.WebApplication
+		SccLocalPath3 = HelloRealWorld.WebApplication
+		SccProjectUniqueName4 = HelloRealWorld.Web\\HelloRealWorld.Web.csproj
+		SccProjectName4 = HelloRealWorld.Web
+		SccLocalPath4 = HelloRealWorld.Web
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{077CEB4D-72FF-4CF9-B0CB-9AF78A7F732D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{077CEB4D-72FF-4CF9-B0CB-9AF78A7F732D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{077CEB4D-72FF-4CF9-B0CB-9AF78A7F732D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{077CEB4D-72FF-4CF9-B0CB-9AF78A7F732D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCF5AAD7-1678-48E5-9FA1-3041CB7DEBBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCF5AAD7-1678-48E5-9FA1-3041CB7DEBBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCF5AAD7-1678-48E5-9FA1-3041CB7DEBBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCF5AAD7-1678-48E5-9FA1-3041CB7DEBBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55F53B0A-E24A-4BEE-A5D2-49A8B0B17742}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55F53B0A-E24A-4BEE-A5D2-49A8B0B17742}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55F53B0A-E24A-4BEE-A5D2-49A8B0B17742}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55F53B0A-E24A-4BEE-A5D2-49A8B0B17742}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC68B074-00B9-4FF9-8FAD-9B3B56BA431E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC68B074-00B9-4FF9-8FAD-9B3B56BA431E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC68B074-00B9-4FF9-8FAD-9B3B56BA431E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC68B074-00B9-4FF9-8FAD-9B3B56BA431E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
